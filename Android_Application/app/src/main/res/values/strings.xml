@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PillDispenserDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth__pair__menu">Bluetooth_Pair_Menu</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiver</string>
+    <string name="title_activity_manage_schedule">manage_schedule</string>
+    <string name="title_activity_med_settings">med_settings</string>
+    <string name="title_activity_ringing">ringing</string>
+    <string name="title_activity_add_med_form">add_med_form</string>
+</resources>
